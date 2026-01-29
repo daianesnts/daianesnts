@@ -2,11 +2,9 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FF9CCE"  />
 </div>
 
-<h1 align="center">Olá! Me chamo Daiane Santos 👋</h1>
-
-<p align="center">
-  Estudante de Sistemas de Informação💻
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Me+chamo+Daiane+Santos+%F0%9F%91%8B" alt="Typing SVG" />
+</div>
 
 ###
 
@@ -16,9 +14,9 @@
 const daiane = {
   curso: "Sistemas de Informação",
   semestre: "4º período",
-  atividade: ["Representante Discente", "Monitora de Programação"],
-  interesses: ["Desenvolvimento", "Gestão", "Design"],
-  aprendendo: ["Assembly", "Flutter"],
+  função: "Monitora de Programação",
+  interesses: ["Desenvolvimento", "Estruturas de Dados", "Design"],
+  aprendendo: ["C", "JavaScript", "React"],
   hobbies: ["Criar conteúdo", "Resolver problemas", "Explorar novas tecnologias"]
 };
 </pre>

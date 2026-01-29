@@ -1,17 +1,35 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=%23FFB6C1&height=120&section=header"/>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FF9CCE"  />
+</div>
 
-# 👋 Olá, sou Daiane Santos!
+###
 
-Estudante de Ciência da Computação em Itabaiana-SE, apaixonada por Python, IA, ciberntica e teoria da computação. Desenvolvendo projetos acadêmicos e explorando automação e sistemas.[attached_file:1]
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
-## 🛠️ Techs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,wordpress" height="40" />
-</p>
+###
 
-## ✨ Projetos em Destaque
-- **Automata Python**: Projetos com .jff e teoria da computação.
-- **IA e Ciberntica**: Estudos sobre impactos sociais no Brasil.
-- **XML e OOP**: Scripts modulares e colaborativos.
+<img src="https://raw.githubusercontent.com/daianesnts/daianesnts/output/snake.svg" alt="Snake animation" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=%23FFB6C1&height=120&section=footer&text=%C2%A9%202026%20Daiane%20Santos&fontSize=24&fontAlign=80&animation=twinkling"/>
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FF9CCE"  />
+</div>
+
+###

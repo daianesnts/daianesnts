@@ -14,9 +14,9 @@
 const daiane = {
   curso: "Sistemas de Informação",
   semestre: "4º período",
-  função: "Monitora de Programação",
-  interesses: ["Desenvolvimento", "Estruturas de Dados", "Design"],
-  aprendendo: ["C", "JavaScript", "React"],
+  atividade: ["Representante Discente", "Monitora de Programação"],
+  interesses: ["Desenvolvimento", "Gestão", "Design"],
+  aprendendo: ["Assembly", "Flutter"],
   hobbies: ["Criar conteúdo", "Resolver problemas", "Explorar novas tecnologias"]
 };
 </pre>

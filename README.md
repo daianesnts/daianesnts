@@ -14,7 +14,7 @@
 const daiane = {
   curso: "Sistemas de Informação",
   semestre: "4º período",
-  atividade: ["Representante Discente no Conselho Departamental", "Representante Discente no Conselho de Coordenação de Curso", "Monitora de Programação"],
+  atividade: ["Representante Discente no Conselho Departamental e no Conselho de Coordenação de Curso", "Monitora de Programação"],
   interesses: ["Desenvolvimento", "Gestão", "Design"],
   aprendendo: ["Assembly", "Flutter"],
   hobbies: ["Criar conteúdo", "Resolver problemas", "Explorar novas tecnologias"]

@@ -13,7 +13,7 @@
 <pre>
 const daiane = {
   curso: "Sistemas de Informação",
-  semestre: "4º período",
+  semestre: "5º período",
   atividade: ["Representante Discente no Conselho Departamental e no Conselho de Coordenação de Curso", "Monitora de Programação"],
   interesses: ["Desenvolvimento", "Gestão", "Design"],
   aprendendo: ["Assembly", "Flutter"],

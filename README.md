@@ -18,8 +18,7 @@ const daiane = {
     "Iniciação Científica", 
     "Diretoria Empresa Júnior, 
     "Representação Discente no Conselho Departamental e no Conselho de Coordenação de Curso", 
-    "Monitoria de Estrutura de Dados"
-  ],
+    "Monitoria de Estrutura de Dados"],
   interesses: ["Desenvolvimento", "Gestão", "Design"],
   aprendendo: ["Assembly", "Flutter Flow"],
   hobbies: ["Criar conteúdo", "Resolver problemas", "Explorar novas tecnologias"]

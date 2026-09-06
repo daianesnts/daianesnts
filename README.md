@@ -13,14 +13,18 @@
 <pre>
 const daiane = {
   curso: "Sistemas de Informação",
-  semestre: "5º período",
-  atividade: ["Representante Discente no Conselho Departamental e no Conselho de Coordenação de Curso", "Monitora de Programação"],
+  semestre: "6º período",
+  atividade: [
+    "Iniciação Científica", 
+    "Diretoria Empresa Júnior, 
+    "Representação Discente no Conselho Departamental e no Conselho de Coordenação de Curso", 
+    "Monitoria de Estrutura de Dados"
+  ],
   interesses: ["Desenvolvimento", "Gestão", "Design"],
-  aprendendo: ["Assembly", "Flutter"],
+  aprendendo: ["Assembly", "Flutter Flow"],
   hobbies: ["Criar conteúdo", "Resolver problemas", "Explorar novas tecnologias"]
 };
 </pre>
-
 ###
 
 <h2 align="left">💻 Tecnologias e Ferramentas</h2>
@@ -49,7 +53,10 @@ const daiane = {
 
 <div align="left">
   <a href="https://www.instagram.com/daisnts_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/daiane-santos-contato" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
 
